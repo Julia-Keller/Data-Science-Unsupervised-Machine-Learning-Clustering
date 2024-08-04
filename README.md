@@ -42,7 +42,7 @@ A team of three people searched for an answer to the question posed.
 
 ## Deliverables:
 
-- PowerPoint Presentation (PPT attached here)
+- PowerPoint Presentation (Attached here)
 - Work notebooks in Jupyter Lab. (Files attached here)
 
 ## Conclusions & Recommendations:
